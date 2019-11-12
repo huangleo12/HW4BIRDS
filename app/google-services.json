@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979201001529",
+    "firebase_url": "https://hw4birds.firebaseio.com",
+    "project_id": "hw4birds",
+    "storage_bucket": "hw4birds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979201001529:android:443032235a9b2aa989e5e8",
+        "android_client_info": {
+          "package_name": "com.example.hw4birds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979201001529-6j7jkm6orf2f047it6j583ppj1rh7692.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hw4birds",
+            "certificate_hash": "afa1f1cfb91f328ae91a12f9e1510caf2aa92ae3"
+          }
+        },
+        {
+          "client_id": "979201001529-7mh8sdfqtrp0lhjsvi2t5agvf1bppp9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sn9cY3kcnWVdjRrCwHDWTKkideDZLws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979201001529-7mh8sdfqtrp0lhjsvi2t5agvf1bppp9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
